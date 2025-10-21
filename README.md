@@ -1,2 +1,2 @@
-# auto_ping_project
+# otomasi_jaringan
 Program Python untuk ping otomatis  
